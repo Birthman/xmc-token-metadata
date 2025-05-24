@@ -1,0 +1,15 @@
+{
+  "name": "Magic Token",
+  "symbol": "XMC",
+  "description": "Coming soon — a magical token experience!",
+  "image": "https://yourdomain.com/image.png",
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "FZ84FokVsHsTd5iFsyH62SBCLAyYfuBrai9CCsQ2nBr6",
+        "share": 100
+      }
+    ]
+  }
+}
